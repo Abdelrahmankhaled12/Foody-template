@@ -6,7 +6,7 @@
 ## library :
 ### Aos Owl
 ## Design :
-<img src="design/organic-food-website-template">
+<img src="design/organic-food-website-template.webp">
 
 ## Responsive :
 <img src="design/responsive.png">
